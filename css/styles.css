@@ -1,0 +1,21 @@
+.page {
+    width: 1600px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-container {
+    display: flex;
+    justify-content: center;
+    
+    padding-top: 50px;
+}
+
+.gallery-item {
+    display: block;
+
+    width: 500px;
+
+    margin-left: 15px;
+}
